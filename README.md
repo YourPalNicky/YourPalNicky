@@ -1,8 +1,4 @@
-# Heyo! Welcome to my profile
-
-<br>
-
-# These are my stats
+#  I make a lot of commits
 
 ![YourPalNicky's github stats](https://github-readme-stats.vercel.app/api?username=YourPalNicky&count_private=true&theme=jolly)
 
