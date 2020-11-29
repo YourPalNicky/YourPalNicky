@@ -1,1 +1,1 @@
-[![YourPalNicky's github stats](https://github-readme-stats.vercel.app/api?username=YourPalNicky)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+[![YourPalNicky's github stats](https://github-readme-stats.vercel.app/api?username=YourPalNicky&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
